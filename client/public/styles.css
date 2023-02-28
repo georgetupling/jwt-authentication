@@ -1,0 +1,27 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+.form {
+  width: 500px;
+}
+.form-outline {
+  display: flex;
+}
+.form-label {
+  width: 200px;
+}
+.sign-in-button {
+  margin: 0 40%;
+}
+.alert-warning {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.alert-warning p {
+  margin: 0;
+}
+.hidden {
+  display: none;
+}
